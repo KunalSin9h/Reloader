@@ -5,6 +5,8 @@ Browser Extension for reloading window on interval.
 
 ## Demo
 
+https://user-images.githubusercontent.com/82411321/209446765-82b805c7-d5bd-4a12-a936-16be2d7a7633.mp4
+
 ## How to use
 
 1. Clone the repository and load the extension in your browser.
