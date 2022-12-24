@@ -1,5 +1,5 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "Window Reloader",
     "version": "1.0.0",
     "description": "Browser Extension for reloading window on interval",
@@ -21,10 +21,16 @@
         }
     ],
     "web_accessible_resources": [
-        "script.js"
+        {
+            "resources": [
+                "script.js"
+            ],
+            "matches": [
+                "<all_urls>"
+            ]
+        }
     ],
-    "browser_action": {
-        "default_icon": "/icons/icon-32.png",
+    "action": {
         "default_title": "Window Reloader - Options",
         "default_popup": "popup/index.html"
     },
