@@ -3,6 +3,8 @@ Browser Extension for reloading window on interval.
 
 ![demo](https://user-images.githubusercontent.com/82411321/209446046-68849ca3-44d3-4bbb-b97e-65e0ff1e4afd.png)
 
+> ⚠️ Interval time is in millisecond!
+
 ## Demo
 
 https://user-images.githubusercontent.com/82411321/209446765-82b805c7-d5bd-4a12-a936-16be2d7a7633.mp4
